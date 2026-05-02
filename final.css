@@ -1,0 +1,109 @@
+<!DOCTYPE css>
+	header {
+		font-size: 50px;
+		font-family: "Lucida Console", Monaco, monospace;
+		top: 1000px;
+		margin: 50px auto;
+		display: inline;
+	}
+
+	h1 {
+		font-family: "Courier New", Courier, monospace;
+		font-style: none;
+		text-align: center;
+	}
+
+	body {
+		background: #eee url("https://static.tumblr.com/fcbf7c37d0209ba46dda7706d536121f/g7iuunb/uJvpenqx5/tumblr_static_32qhiny6efc4g44c00kgck4w4.png");
+		margin: -10 auto;
+		color: black;
+	}
+
+	table {
+		font-size: 15px;
+		line-height: 30px;
+		font-family: "Lucida Console", Monaco, monospace;
+		max-width: 95%;
+	}
+
+	th {
+		text-transform: none;
+		text-align: left;
+		padding: 30px;
+		max-width:470px;
+	}
+
+	td {
+		text-transform: none;
+		text-align: left;
+		padding: 30px;
+		max-width: 470px;
+	}
+
+<!-- no select included as I wished to make it harder to copy and paste my writing -->
+	.noselect {
+		-webkit-touch-callout: none; /* iOS Safari */
+		-webkit-user-select: none; /* Safari */
+		-khtml-user-select: none; /* Konqueror HTML */
+		-moz-user-select: none; /* Firefox */
+		-ms-user-select: none; /* Internet Explorer/Edge */
+		user-select: none; /* Non-prefixed version, currently supported by Chrome and Opera */
+		}
+
+	.container {
+		background: #fff;
+		width: 1000px;
+		margin: 40px auto;
+		border-radius: 10px;
+		padding: 10px;
+	}
+
+	.links {
+		background: #fff;
+		width: 1000px;
+		margin: 40px auto 40px auto;
+		border-radius: 10px;
+		padding: 10px;
+		text-align: center;
+	}
+
+	img {
+		margin: auto;
+		padding: 10px;
+		max-width: 95%;
+	}
+
+	.credit {
+		background: #fff;
+		width: 20px;
+		padding: 10px;
+		margin: 10px 10px 10px 1430px;
+		border-radius: 20px;
+		font-size: 10px;
+	}
+
+	p {
+		font-weight: normal;
+		font-family: "Courier New", Courier, monospace}
+
+	a {
+		color: black;
+	}
+
+	li {
+		display: inline;
+		padding: 0px 50px 0px 50px;
+		margin: 5px;
+	}
+
+	hr {
+		max-width: 95%;
+	}
+
+	ul {
+		padding: 5px;
+		font-size: 20px;
+		font-family: "Courier New", Courier, monospace;
+	}
+
+		</style>
